@@ -1,0 +1,4 @@
+# Forçar detecção de linguagens
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+
